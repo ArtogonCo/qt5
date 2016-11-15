@@ -25,7 +25,7 @@
 	initrepo = true
 [submodule "qtmultimedia"]
 	path = qtmultimedia
-	url = https://github.com/qtproject/qtmultimedia.git
+	url = ../qtmultimedia.git
 	branch = 5.5
 	initrepo = true
 [submodule "qttools"]
@@ -96,7 +96,7 @@
 	branch = dev
 [submodule "qtconnectivity"]
 	path = qtconnectivity
-	url = https://github.com/qtproject/qtconnectivity.git
+	url = ../qtconnectivity.git
 	branch = 5.5
 	initrepo = true
 [submodule "qtwayland"]
