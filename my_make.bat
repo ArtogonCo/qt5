@@ -4,4 +4,7 @@ set QMAKESPEC=win32-msvc
 set QMAKE_MSC_VER=2015
 set DXSDK_DIR=C:\DirectXSDK\
 
+set PATH=%CD%\bin;%PATH%
+set PATH=C:\Python27\;%PATH%
+
 nmake
