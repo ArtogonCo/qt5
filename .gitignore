@@ -2,3 +2,7 @@ Makefile
 .qmake.cache
 .qmake.super
 *.pro.user*
+ios_artogon
+config.*
+.config.notes
+.qmake.stash
